@@ -1,0 +1,26 @@
+<annotation>
+	<folder>output</folder>
+	<filename>vid1_frame_430.jpg</filename>
+	<path>C:\Users\addinedu\python_for_unreal_project\nail_videos\output\vid1_frame_430.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fingers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>217</ymin>
+			<xmax>316</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>
